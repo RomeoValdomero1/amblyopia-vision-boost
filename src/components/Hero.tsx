@@ -8,7 +8,7 @@ export default function Hero() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
           <div className="space-y-6 animate-fade-in-up">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
-              Transformá tu visión
+              Transforma tu visión con Amblyopia Treatment
             </h1>
             <p className="text-lg md:text-xl text-gray-600">
               Tratamiento efectivo para el ojo vago sin cirugías
@@ -19,9 +19,9 @@ export default function Hero() {
           </div>
           <div className="relative animate-fade-in-up delay-200 flex justify-center">
             <img
-              src="/lovable-uploads/17f7d676-e914-4f91-819a-26969498e174.png"
+              src="/lovable-uploads/8f8deff8-d0e9-460f-8bd7-fdcb1118d8fe.png"
               alt="Paciente usando Amblyopia Treatment"
-              className="w-full h-auto max-w-md mx-auto"
+              className="w-full h-auto max-w-md mx-auto rounded-lg shadow-lg"
             />
           </div>
         </div>
