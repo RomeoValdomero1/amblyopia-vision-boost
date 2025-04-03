@@ -14,7 +14,7 @@ export default function Hero() {
               Tratamiento efectivo para el ojo vago sin cirugías
             </p>
             <Button size="lg" className="bg-primary text-white hover:bg-primary/90">
-              Empotar tratamients
+              Empezar tratamiento
             </Button>
           </div>
           <div className="relative animate-fade-in-up delay-200">
