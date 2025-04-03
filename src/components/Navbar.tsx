@@ -6,8 +6,12 @@ export default function Navbar() {
     <nav className="fixed w-full bg-white/90 backdrop-blur-sm z-50 shadow-sm">
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16">
-          <a href="#" className="text-xl font-bold text-primary">
-            Amblyopia Treatment
+          <a href="#" className="flex items-center gap-2">
+            <img 
+              src="/lovable-uploads/abaf6a4c-fbbb-4a3a-9094-03c94fe8e8b8.png" 
+              alt="Amblyopia Treatment Logo" 
+              className="h-12"
+            />
           </a>
           <div className="hidden md:flex space-x-8">
             <a href="#que-es" className="text-gray-600 hover:text-primary">Que es</a>
