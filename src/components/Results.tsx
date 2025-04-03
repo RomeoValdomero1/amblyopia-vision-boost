@@ -80,22 +80,17 @@ export default function Results() {
           </div>
 
           <div className="h-80">
-            <ChartContainer config={chartConfig}>
-              <ResponsiveContainer width="100%" height="100%">
-                <BarChart data={data} margin={{ top: 20, right: 30, left: 20, bottom: 5 }}>
-                  <CartesianGrid strokeDasharray="3 3" />
-                  <XAxis dataKey="group" />
-                  <YAxis 
-                    label={{ value: '% de efectividad', angle: -90, position: 'insideLeft' }} 
-                    domain={[0, 100]}
-                  />
-                  <Bar dataKey="improvement" fill="#1E88E5" name="improvement" />
-                </BarChart>
-              </ResponsiveContainer>
-              <ChartLegend>
-                <ChartLegendContent />
-              </ChartLegend>
-            </ChartContainer>
+            <ResponsiveContainer width="100%" height="100%">
+              <BarChart data={data} margin={{ top: 20, right: 30, left: 20, bottom: 5 }}>
+                <CartesianGrid strokeDasharray="3 3" />
+                <XAxis dataKey="group" />
+                <YAxis 
+                  label={{ value: '% de efectividad', angle: -90, position: 'insideLeft' }} 
+                  domain={[0, 100]}
+                />
+                <Bar dataKey="improvement" fill="#1E88E5" name="Mejora en agudeza visual" />
+              </BarChart>
+            </ResponsiveContainer>
           </div>
         </div>
       </div>

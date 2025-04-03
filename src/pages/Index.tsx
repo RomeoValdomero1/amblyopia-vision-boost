@@ -4,6 +4,10 @@ import Navbar from "@/components/Navbar";
 import WhatIs from "@/components/WhatIs";
 import HowItWorks from "@/components/HowItWorks";
 import Results from "@/components/Results";
+import Testimonials from "@/components/Testimonials";
+import FAQ from "@/components/FAQ";
+import Contact from "@/components/Contact";
+import Footer from "@/components/Footer";
 
 const Index = () => {
   return (
@@ -13,6 +17,10 @@ const Index = () => {
       <WhatIs />
       <HowItWorks />
       <Results />
+      <Testimonials />
+      <FAQ />
+      <Contact />
+      <Footer />
     </div>
   );
 };
