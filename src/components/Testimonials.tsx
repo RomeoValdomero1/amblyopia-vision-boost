@@ -13,17 +13,17 @@ const testimonials = [
   },
   {
     id: 2,
-    name: "Recéuá receleno",
+    name: "Patricio",
     role: "Paciente",
     image: "/placeholder.svg",
-    quote: "Este software es muy importante e puclereamãl@apareh costelao."
+    quote: "Nunca creí que un juego podría mejorar mi visión."
   },
   {
     id: 3,
-    name: "Dr. Lopez",
-    role: "Médico",
+    name: "Natalia",
+    role: "Paciente",
     image: "/placeholder.svg",
-    quote: "Recomiendo este programa de usuario."
+    quote: "Recuperar la visión me cambió la vida."
   }
 ];
 
