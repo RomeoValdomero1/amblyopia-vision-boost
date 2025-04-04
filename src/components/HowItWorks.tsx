@@ -14,11 +14,11 @@ export default function HowItWorks() {
           <div className="space-y-6">
             <div className="flex items-center gap-3">
               <div className="w-3 h-3 bg-green-500 rounded-full"></div>
-              <h3 className="font-bold">Usa el software</h3>
+              <h3 className="font-bold">30 minutos diarios 5 días a la semana con nuestras diferentes modalidades</h3>
             </div>
             <div className="flex items-center gap-3">
               <div className="w-3 h-3 bg-blue-500 rounded-full"></div>
-              <h3 className="font-bold">Tus bajadas desde cualquier dispositivo con internet</h3>
+              <h3 className="font-bold">La visión se ejercita resolviendo ejercicios diseñados con optotipos</h3>
             </div>
             
             <div className="mt-8 pt-4 border-t border-gray-200">
@@ -41,9 +41,9 @@ export default function HowItWorks() {
           
           <div className="flex justify-center">
             <img 
-              src="/lovable-uploads/17f7d676-e914-4f91-819a-26969498e174.png"
+              src="/lovable-uploads/cc0460bd-69e8-491a-a5c2-39941ae5381c.png"
               alt="Mascota de Amblyopia Treatment"
-              className="w-48 h-auto"
+              className="w-full max-w-md h-auto"
             />
           </div>
         </div>

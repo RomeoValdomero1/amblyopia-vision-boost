@@ -13,13 +13,16 @@ export default function Hero() {
             <p className="text-lg md:text-xl text-gray-600">
               Tratamiento efectivo para el ojo vago sin cirugías
             </p>
+            <p className="text-lg md:text-xl text-gray-600">
+              Una solución innovadora para tratar el ojo vago
+            </p>
             <Button size="lg" className="bg-primary text-white hover:bg-primary/90">
               Empezar tratamiento
             </Button>
           </div>
           <div className="relative animate-fade-in-up delay-200 flex justify-center">
             <img
-              src="/lovable-uploads/8f8deff8-d0e9-460f-8bd7-fdcb1118d8fe.png"
+              src="/lovable-uploads/cc0460bd-69e8-491a-a5c2-39941ae5381c.png"
               alt="Paciente usando Amblyopia Treatment"
               className="w-full h-auto max-w-md mx-auto rounded-lg shadow-lg"
             />

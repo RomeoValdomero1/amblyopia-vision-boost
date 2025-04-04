@@ -8,10 +8,6 @@ import {
 
 const faqs = [
   {
-    question: "¿Cuánto cuesta el tratamiento?",
-    answer: "El precio del tratamiento varía según su duración y modalidad. Contáctenos para obtener información personalizada sobre costos."
-  },
-  {
     question: "¿Es para adultos también?",
     answer: "Sí, nuestro tratamiento es efectivo para personas de todas las edades, desde niños de 7 años hasta adultos de 90 años."
   },
