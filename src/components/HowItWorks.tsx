@@ -16,7 +16,7 @@ export default function HowItWorks() {
               <img 
                 src="/lovable-uploads/68d56157-b18f-46a7-913a-d6ab67e43023.png"
                 alt="Ícono de visión"
-                className="w-26 h-26 object-contain"
+                className="w-32 h-auto object-contain"
               />
               <img 
                 src="/lovable-uploads/f9698969-cfa8-436c-81d9-10f1e25da595.png"
