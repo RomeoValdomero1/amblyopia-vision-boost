@@ -14,12 +14,12 @@ export default function HowItWorks() {
           <div className="space-y-6">
             <div className="flex flex-col items-center gap-4 mb-8">
               <img 
-                src="/lovable-uploads/4a7376ce-9a46-4a90-ab4a-bbb04f4d6e25.png"
+                src="/lovable-uploads/68d56157-b18f-46a7-913a-d6ab67e43023.png"
                 alt="Ícono de visión"
                 className="w-24 h-24 object-contain"
               />
               <img 
-                src="/lovable-uploads/fd5ec3c1-28fb-44f2-a8ee-74e77618804f.png"
+                src="/lovable-uploads/f9698969-cfa8-436c-81d9-10f1e25da595.png"
                 alt="Gráfico de mejora"
                 className="w-32 h-auto object-contain"
               />
