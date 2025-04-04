@@ -18,6 +18,11 @@ export default function HowItWorks() {
                 alt="Ícono de visión"
                 className="w-32 h-auto object-contain"
               />
+             <img 
+                src="/lovable-uploads/f9698969-cfa8-436c-81d9-10f1e25da595.png"
+                alt="Gráfico de mejora"
+                className="w-32 h-auto object-contain"
+              />
             </div>
             
             <div className="flex items-center gap-3">
