@@ -75,14 +75,14 @@ export default function Contact() {
             <div className="space-y-4">
               <div className="flex items-center justify-center gap-2">
                 <Mail className="h-5 w-5 text-primary" />
-                <a href="mailto:info@tratamientodeambliopia.com" className="text-gray-600 hover:text-primary">
-                  info@tratamientodeambliopia.com
+                <a href="mailto:amblyopiaglobal@gmail.com" className="text-gray-600 hover:text-primary">
+                  amblyopiaglobal@gmail.com
                 </a>
               </div>
               <div className="flex items-center justify-center gap-2">
                 <Instagram className="h-5 w-5 text-primary" />
-                <a href="#" className="text-gray-600 hover:text-primary">
-                  @amblyopiatreatment
+                <a href="https://www.instagram.com/amblyopia.treatment?igsh=MXd6MTFsYXpxMWR0bQ%3D%3D&utm_source=qr" className="text-gray-600 hover:text-primary">
+                  @amblyopia.treatment
                 </a>
               </div>
               <div className="flex items-center justify-center gap-2">
