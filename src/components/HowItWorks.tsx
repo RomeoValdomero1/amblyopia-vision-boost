@@ -12,6 +12,19 @@ export default function HowItWorks() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center mb-16">
           <div className="space-y-6">
+            <div className="flex flex-col items-center gap-4 mb-8">
+              <img 
+                src="/lovable-uploads/4a7376ce-9a46-4a90-ab4a-bbb04f4d6e25.png"
+                alt="Ícono de visión"
+                className="w-24 h-24 object-contain"
+              />
+              <img 
+                src="/lovable-uploads/fd5ec3c1-28fb-44f2-a8ee-74e77618804f.png"
+                alt="Gráfico de mejora"
+                className="w-32 h-auto object-contain"
+              />
+            </div>
+            
             <div className="flex items-center gap-3">
               <div className="w-3 h-3 bg-green-500 rounded-full"></div>
               <h3 className="font-bold">30 minutos diarios 5 días a la semana con nuestras diferentes modalidades</h3>
@@ -24,8 +37,8 @@ export default function HowItWorks() {
             <div className="mt-8 pt-4 border-t border-gray-200">
               <div className="flex justify-between items-center">
                 <div>
-                  <div className="text-xl font-bold text-primary">+500</div>
-                  <div className="text-sm text-gray-600">pacientes tratados desde 2008</div>
+                  <div className="text-xl font-bold text-primary">+600</div>
+                  <div className="text-sm text-gray-600">pacientes tratados desde 2013</div>
                 </div>
                 <div>
                   <div className="text-xl font-bold text-primary">MEJORA</div>
@@ -33,8 +46,8 @@ export default function HowItWorks() {
                 </div>
               </div>
               <div className="mt-4">
-                <div className="text-xl font-bold text-primary">EXPERIENCIA</div>
-                <div className="text-sm text-gray-600">Casos de 7 hasta 30 años</div>
+                <div className="text-xl font-bold text-primary">+10</div>
+                <div className="text-sm text-gray-600">Años de Experiencia</div>
               </div>
             </div>
           </div>
