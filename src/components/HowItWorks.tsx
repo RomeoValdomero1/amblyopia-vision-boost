@@ -12,16 +12,11 @@ export default function HowItWorks() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center mb-16">
           <div className="space-y-6">
-            <div className="flex flex-col items-center gap-4 mb-8">
+            <div className="flex justify-center mb-8">
               <img 
-                src="/lovable-uploads/68d56157-b18f-46a7-913a-d6ab67e43023.png"
-                alt="Ícono de visión"
-                className="w-32 h-auto object-contain"
-              />
-             <img 
-                src="/lovable-uploads/f9698969-cfa8-436c-81d9-10f1e25da595.png"
-                alt="Gráfico de mejora"
-                className="w-32 h-auto object-contain"
+                src="/lovable-uploads/c0b20d7d-0689-4e32-a6c0-1be5b8d98bbf.png"
+                alt="Íconos de visión y mejora"
+                className="w-full max-w-md h-auto object-contain"
               />
             </div>
             
